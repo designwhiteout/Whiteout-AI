@@ -1,0 +1,5 @@
+{
+  "name": "Whiteout AI",
+  "description": "An AI-powered interior design rendering app that produces photorealistic renders from an uploaded base model design. Select a style and room type to transform your space with a minimalist and sophisticated aesthetic.",
+  "requestFramePermissions": []
+}
